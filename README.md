@@ -7,6 +7,7 @@ This is a simple command-line Tic-Tac-Toe game written in C. The game offers bot
 - **Singleplayer Mode**: Play against a basic AI that randomly selects moves.
 - **Multiplayer Mode**: Play with a friend locally.
 - **Input Validation**: Ensures that users provide valid input for game mode selection, row and column numbers, and handles invalid input gracefully.
+- **Makefile Included**: A Makefile is provided to simplify the compilation process.
 
 ## How to Play
 
