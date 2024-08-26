@@ -34,7 +34,7 @@ This is a simple command-line Tic-Tac-Toe game written in C. The game offers bot
     make
     ```
     
-    This will compile the program and generate the executable.
+    This will compile the program and generate the executable called `main`.
 
 ## Usage
 
