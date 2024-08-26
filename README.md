@@ -36,3 +36,10 @@ This is a simple command-line Tic-Tac-Toe game written in C. The game offers bot
     
     This will compile the program and generate the executable.
 
+## Usage
+
+You can start playing the game by executing the following command-line argument:
+
+```bash
+./main
+```
