@@ -26,3 +26,13 @@ This is a simple command-line Tic-Tac-Toe game written in C. The game offers bot
    ```bash
    git clone https://github.com/Ashaz-Ahmad/tic-tac-toe-game.git
    cd tic-tac-toe
+   ```
+
+2. Compile the project using `make`:
+
+    ```bash
+    make
+    ```
+    
+    This will compile the program and generate the executable.
+
