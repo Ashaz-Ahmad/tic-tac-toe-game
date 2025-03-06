@@ -200,6 +200,8 @@ void printWinner(char winner)
     } else if (winner == COMPUTER)
     {
         printf("You lose!");
+    } else
+    {
+        printf("It is a tie!");
     }
-    
 }
