@@ -25,7 +25,7 @@ This is a simple command-line Tic-Tac-Toe game written in C. The game offers bot
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Ashaz-Ahmad/tic-tac-toe-game.git
-   cd tic-tac-toe
+   cd tic-tac-toe-game
    ```
 
 2. Compile the project using `make`:
