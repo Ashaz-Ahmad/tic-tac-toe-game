@@ -18,7 +18,7 @@ int main()
             
             gamemode_input_result = scanf("%d", &gamemode);
 
-           if (gamemode_input_result != 1) 
+            if (gamemode_input_result != 1) 
             {
                 printf("Invalid input! Please enter a number (1 for singleplayer, 2 for multiplayer).\n");
                 while (getchar() != '\n'); 
